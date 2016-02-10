@@ -1,0 +1,13 @@
+http://espn.go.com/nba/transactions
+
+The above link is for all personnel and roster changes that have happened in the NBA within
+the last seven days. This includes D-League recalls, suspensions, free agency signings, trades,
+firings, hirings and fines. You can go back seven days at a time and the URL for previous weeks looks
+something like this: http://espn.go.com/nba/transactions/_/date/20160202 the final number is 
+a date for the first day of that week. This information is useful because these roster and
+personnel moves can have a wide range of consequences for the team(s) involved which would be
+kind of important to know if you are covering the league or a particular team as a beat writer.
+Right now, the information is presented only based on date, with no option to sort it in any
+other way. It would be cool to see this information presented in an excel table where you could
+sort the transactions by player, type of transaction, or even by team but in a way where you
+could get more of a side by side comparison with other teams.
